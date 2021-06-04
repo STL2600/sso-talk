@@ -464,3 +464,22 @@ oauth-proxy:
   ports:
     - 4180:4180
 ```
+
+# Where can you login now?
+
+## Stuff We've Discussed
+
+- Matrix Chat
+- OpenVPN
+- Gitea
+- Nextcloud
+
+## With some work:
+
+- Your computer
+- Your home Wi-Fi
+
+# Examples?
+
+# Questions?
+
